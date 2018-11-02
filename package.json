@@ -1,0 +1,28 @@
+{
+  "name": "@tjoskar/assert",
+  "description": "Simple assert lib",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "tjoskar <kontakta@oskarkarlsson.nu>",
+  "bugs": {
+    "url": "https://github.com/tjoskar/assert/issues",
+    "email": "kontakta@oskarkarlsson.nu"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "~23.6.0"
+  },
+  "homepage": "https://github.com/tjoskar/assert",
+  "keywords": [
+    "assert",
+    "unittest"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjoskar/assert"
+  }
+}
