@@ -28,6 +28,6 @@
     "url": "https://github.com/tjoskar/assert"
   },
   "volta": {
-    "node": "16.13.1"
+    "node": "16.16.0"
   }
 }
