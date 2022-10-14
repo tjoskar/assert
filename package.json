@@ -13,7 +13,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "vitest": "0.23.2",
+    "vitest": "0.24.3",
     "xo": "0.52.2"
   },
   "homepage": "https://github.com/tjoskar/assert",
